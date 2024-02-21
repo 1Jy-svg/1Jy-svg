@@ -19,10 +19,10 @@
 </div>
 </div>
 
-<div style="display:flex;margin-top:10 px">
+<div style="display:inline;margin-top:10 px">
   <h1>##Language and Tools</h1>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain-wordmark.svg"  title="C" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain-wordmark.svg"  title="c" alt="c" width="40" height="40"/>&nbsp;
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 
@@ -37,7 +37,6 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1Jy-svg)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=1Jy-svg" alt="GitHub Streak" /></a>
 
 
 
