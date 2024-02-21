@@ -30,10 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
-### :fire: My Stats :
-
+<h1>My Stats</h1>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1Jy-svg&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Jy-svg)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Jy-svg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
