@@ -7,10 +7,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
-- :telescope: I’m  currently 3rd year btech computer science student and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on LeetCode and Hackerrank.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+<p>- :telescope: I’m  currently 3rd year btech computer science student and contributing to frontend and backend for building web applications.<br>
+- :seedling: Exploring Technical Content Writing.<br>
+- :zap: In my free time, I solve problems on LeetCode and Hackerrank.</p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jyothika-sankar-83b89828b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 </div>
 Languages and Tools :
 <div style="display:flex>
