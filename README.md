@@ -19,7 +19,7 @@
 </div>
 </div>
 
-<div style="display:inline;margin-top:10 px">
+<div style="display:inline-block;margin-top:10 px">
   <h1>##Language and Tools</h1>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain-wordmark.svg"  title="c" alt="c" width="40" height="40"/>&nbsp;
