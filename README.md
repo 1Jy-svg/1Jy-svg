@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 <h1>My Stats</h1>
-<a href="https://git.io/streak-stats style="margin-bottom:15px"><img src="http://github-readme-streak-stats.herokuapp.com?user=1Jy-svg&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats style="margin-bottom:15px"><img src="http://github-readme-streak-stats.herokuapp.com?user=1Jy-svg&theme=dark" alt="GitHub Streak" style="margin-bottom:10 px" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Jy-svg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
