@@ -11,7 +11,7 @@
 <div>
 <p>- :telescope: I’m  currently 3rd year btech computer science student and contributing to frontend and backend for building web applications.<br>
 - :seedling: Exploring Technical Content Writing.<br>
-- :zap: In my free time, I solve problems on LeetCode and Hackerrank.<br> - :mailbox-How to reach me</p>
+- :zap: In my free time, I solve problems on LeetCode and Hackerrank.<br> - :mailbox:How to reach me</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jyothika-sankar-83b89828b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
