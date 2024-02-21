@@ -11,15 +11,16 @@
 <div>
 <p>- :telescope: I’m  currently 3rd year btech computer science student and contributing to frontend and backend for building web applications.<br>
 - :seedling: Exploring Technical Content Writing.<br>
-- :zap: In my free time, I solve problems on LeetCode and Hackerrank.<br> How to reach me</p>
+- :zap: In my free time, I solve problems on LeetCode and Hackerrank.<br> -How to reach me</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jyothika-sankar-83b89828b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 </div>
-Languages and Tools :
-<div style="display:flex>
+
+<div style="display:flex;margin-top:10 px">
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
