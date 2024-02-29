@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About Me :
 <div>
-<p>- :telescope: I’m  currently 3rd year btech computer science student and contributing to frontend and backend for building web applications.<br>
+<p>- :telescope: I’m  currently a 3rd year Btech computer science student and contributing to frontend and backend for building web applications.<br>
  - :mailbox:How to reach me-jyothikasankar2@gmail.com</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jyothika-sankar-83b89828b">
@@ -25,9 +25,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="Angular" alt="Angular" width="50" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="python" alt="python" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain-wordmark.svg"  title="c" alt="c" width="50" height="40"/>&nbsp;
 </div>
 <h1>My Stats</h1>
 <a href="https://git.io/streak-stats style="margin-bottom:15px"><img src="http://github-readme-streak-stats.herokuapp.com?user=1Jy-svg&theme=dark" alt="GitHub Streak" style="margin:10 px" /></a>
