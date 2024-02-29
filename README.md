@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="Angular" alt="Angular" width="50" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="python" alt="python" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain-wordmark.svg"  title="c" alt="c" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/C/C-plain-wordmark.svg"  title="C" alt="C" width="50" height="40"/>&nbsp;
 </div>
 <h1>My Stats</h1>
 <a href="https://git.io/streak-stats style="margin-bottom:15px"><img src="http://github-readme-streak-stats.herokuapp.com?user=1Jy-svg&theme=dark" alt="GitHub Streak" style="margin:10 px" /></a>
